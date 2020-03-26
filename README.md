@@ -10,11 +10,15 @@
 
 		sudo dpkg -i refind_0.12.0-1_amd64.deb 
 
-- install theme[4]
+- If you need, install theme[4]
 		
+- If the rEFInd GUI doesn't work, set "textonly" mode [5],[6]
+
 
 ### References
 [1]https://www.rodsbooks.com/refind/installing.html  
 [2]https://sourceforge.net/projects/refind/  
 [3]https://askubuntu.com/questions/856773/how-to-remove-refind-drivers-completely-from-my-ubuntu  
 [4]https://github.com/EvanPurkhiser/rEFInd-minimal  
+[5]https://wiki.ubuntulinux.jp/UbuntuTips/Install/UEFI/rEFInd%20Boot%20Manager  
+[6]https://orumin.blogspot.com/2014/07/linuxrefind.html  
