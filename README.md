@@ -11,7 +11,7 @@
 		sudo dpkg -i refind_0.12.0-1_amd64.deb 
 
 - If you need, install theme[4]
-		
+
 - If the rEFInd GUI doesn't work, set "textonly" mode [5],[6]
 
 
